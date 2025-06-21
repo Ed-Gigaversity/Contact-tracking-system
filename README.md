@@ -78,3 +78,13 @@ This is modeled as a **binary classification problem**:
 - Organizations managing workforce safety
 
 ---
+
+## clone repository
+```bash
+git clone https://github.com/Ed-Gigaversity/Contact-tracking-system.git
+```
+
+## change directory
+```bash
+cd Contact_Tracing_System_Using_ML
+```
