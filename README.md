@@ -88,3 +88,10 @@ git clone https://github.com/Ed-Gigaversity/Contact-tracking-system.git
 ```bash
 cd Contact_Tracing_System_Using_ML
 ```
+**Credits**
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
+- folium
