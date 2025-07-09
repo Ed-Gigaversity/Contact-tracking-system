@@ -1,5 +1,5 @@
 
-# 🧬 Contact-Tracing-System
+#  Contact-Tracing-System
 
 A Machine Learning-based solution to identify and assess the risk of disease transmission based on proximity data and interaction patterns — helping automate and scale contact tracing efforts during infectious disease outbreaks like COVID-19.
 
